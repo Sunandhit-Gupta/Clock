@@ -1,0 +1,42 @@
+*{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.head{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 3vh;
+    user-select: none;
+}
+.btn{
+    color: gold;
+    text-align: center;
+    border-color: gold;
+    font-size: 20vh;
+    margin-top: 10vh;
+    cursor: pointer;
+    user-select: none;
+
+}
+.clock{
+    text-align: center;
+    color: gold;
+    font-size: 20vh;
+    margin-top: 6vh;
+    margin-bottom: 0;
+    user-select: none;  
+
+}
+.date{
+    background-color: yellow;
+    text-align: center;
+    font-size: 10vh;
+    margin-top: 6vh;
+    user-select: none;
+}
+.anim{
+    margin-top: 0vh;
+    margin-left: 32vw;
+    padding: 0vh;
+}
