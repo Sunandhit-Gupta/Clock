@@ -17,4 +17,3 @@ function watch() {i++;
 
 setTimeout(watch,0);                 
 }
-i = 0
