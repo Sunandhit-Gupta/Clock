@@ -1,4 +1,4 @@
-function watch() {i++;
+function watch() {
     let a = new Date();
     let b = a.getTime();
     let c = a.getHours();
